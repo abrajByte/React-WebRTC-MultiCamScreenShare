@@ -45,7 +45,7 @@ cd client
 npm install 
 ```
 
-Open New temrinal
+Open New terminal
 #### Navigate to server directory and Install server-side dependencies
 ```bash
 cd server
